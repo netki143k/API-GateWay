@@ -10,10 +10,10 @@
 		<relativePath />
 	</parent>
 	<groupId>com.glarimy</groupId>
-	<artifactId>zuul-service</artifactId>
+	<artifactId>quiz-edge-service</artifactId>
 	<version>1.0.0</version>
-	<name>glarimy-zuul-service</name>
-	<description>Eureka Gateway Service</description>
+	<name>glarimy-quiz-edge-service</name>
+	<description>Zuul Gateway Service for Quiz</description>
 
 	<properties>
 		<java.version>1.8</java.version>
